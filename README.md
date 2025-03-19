@@ -1,7 +1,7 @@
  👋 Hi, I’m @nen21-ctrl
 - 👀 I’m interested in biological studies
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on none
+- 💞️ I’m looking to collaborate on TCS
 - 📫 How to reach me never 
 - 😄 Pronouns: NEN
 - ⚡ Fun fact: Foodie
